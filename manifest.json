@@ -1,6 +1,6 @@
 {
     "name": "ubdius.meltstrap",
-    "description": "A webapp for the YouTube player Invidious",
+    "description": "An unofficial webapp for the YouTube frontend Invidious",
     "architecture": "@CLICK_ARCH@",
     "title": "UBdius",
     "hooks": {
