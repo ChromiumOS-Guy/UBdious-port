@@ -1,12 +1,12 @@
 {
-    "name": "ubdius.meltstrap",
+    "name": "ubdious.meltstrap",
     "description": "An unofficial webapp for the YouTube frontend Invidious",
     "architecture": "@CLICK_ARCH@",
-    "title": "UBdius",
+    "title": "UBdious",
     "hooks": {
         "ubdius": {
-            "apparmor": "ubdius.apparmor",
-            "desktop":  "ubdius.desktop"
+            "apparmor": "ubdious.apparmor",
+            "desktop":  "ubdious.desktop"
         }
     },
     "version": "1.0.0",
