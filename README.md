@@ -1,6 +1,6 @@
 # UBdius
 
-An unofficial webapp for the YouTube player Invidious
+An unofficial webapp for the YouTube frontend Invidious
 
 ## License
 
