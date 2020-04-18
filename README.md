@@ -1,4 +1,4 @@
-# UBdius
+# UBdious
 
 An unofficial webapp for the YouTube frontend Invidious
 
