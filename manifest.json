@@ -1,5 +1,5 @@
 {
-    "name": "ubdious.meltstrap",
+    "name": "ubdious.mintphin",
     "description": "An unofficial webapp for the YouTube frontend Invidious",
     "architecture": "@CLICK_ARCH@",
     "title": "UBdious",
@@ -10,6 +10,6 @@
         }
     },
     "version": "1.0.0",
-    "maintainer": "meltstrap <meltstrap@uiiverse.xyz>",
+    "maintainer": "mintphin <him@mint.lgbt>",
     "framework" : "ubuntu-sdk-16.04"
 }
