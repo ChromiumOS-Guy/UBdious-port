@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=UBdious
-Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://www.invidio.us/* $@ https://www.invidio.us/
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://vid.mint.lgbt/* $@ https://vid.mint.lgbt/
 Icon=assets/logo.svg
 Terminal=false
 Type=Application
