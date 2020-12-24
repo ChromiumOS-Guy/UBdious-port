@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=UBdious
-Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://vid.mint.lgbt/* $@ https://vid.mint.lgbt/
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https://invidious.snopyta.org/* $@ https://invidious.snopyta.org/
 Icon=assets/logo.svg
 Terminal=false
 Type=Application
