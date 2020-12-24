@@ -9,7 +9,7 @@
             "desktop":  "ubdious.desktop"
         }
     },
-    "version": "1.0.0",
-    "maintainer": "mintphin <him@mint.lgbt>",
+    "version": "1.1.0",
+    "maintainer": "mintphin <they@mint.lgbt>",
     "framework" : "ubuntu-sdk-16.04"
 }
