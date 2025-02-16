@@ -9,7 +9,7 @@
             "desktop":  "ubdious-port.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "ChromiumOS-Guy <email@domain.org>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
