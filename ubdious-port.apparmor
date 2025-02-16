@@ -3,7 +3,11 @@
     "policy_groups": [
         "webview",
         "audio",
-        "networking"
+        "location",
+        "networking",
+        "video",
+        "keep-display-on"
+
     ],
     "policy_version": 20.04
 }
