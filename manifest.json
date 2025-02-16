@@ -1,15 +1,15 @@
 {
-    "name": "ubdious.mintphin",
-    "description": "An unofficial webapp for the YouTube frontend Invidious",
+    "name": "ubdious-port.chromiumos-guy",
+    "description": "An unofficial webapp for the YouTube frontend Invidious ported to Focal.",
     "architecture": "@CLICK_ARCH@",
-    "title": "UBdious",
+    "title": "UBdious-port",
     "hooks": {
-        "ubdius": {
-            "apparmor": "ubdious.apparmor",
-            "desktop":  "ubdious.desktop"
+        "ubdious-port": {
+            "apparmor": "ubdious-port.apparmor",
+            "desktop":  "ubdious-port.desktop"
         }
     },
-    "version": "1.1.0",
-    "maintainer": "mintphin <they@mint.lgbt>",
-    "framework" : "ubuntu-sdk-16.04"
+    "version": "1.0.0",
+    "maintainer": "ChromiumOS-Guy <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
 }
