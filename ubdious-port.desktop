@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=UBdious
-Exec=webapp-container --app-id="ubdious.chromiumos-guy" --enable-back-forward --store-session-cookies --webapp-name=UBdious-port --enable-media-hub-audio  --webappUrlPatterns=https://inv.nadeko.net/* $@ https://inv.nadeko.net
+Exec=launch.sh %u
 Icon=assets/logo.svg
 Terminal=false
 Type=Application

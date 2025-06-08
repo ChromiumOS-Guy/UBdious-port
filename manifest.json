@@ -6,10 +6,11 @@
     "hooks": {
         "ubdious-port": {
             "apparmor": "ubdious-port.apparmor",
-            "desktop":  "ubdious-port.desktop"
+            "desktop":  "ubdious-port.desktop",
+            "urls": "ubdious-port.url-dispatcher"
         }
     },
-    "version": "1.0.1",
+    "version": "1.1.1",
     "maintainer": "ChromiumOS-Guy <email@domain.org>",
     "framework" : "@CLICK_FRAMEWORK@"
 }

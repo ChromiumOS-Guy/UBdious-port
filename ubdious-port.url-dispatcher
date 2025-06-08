@@ -1,0 +1,42 @@
+[
+  {
+    "protocol": "http",
+    "domain-suffix": "youtube.com"
+  },
+  {
+    "protocol": "https",
+    "domain-suffix": "youtube.com"
+  },
+  {
+    "protocol": "http",
+    "domain-suffix": "www.youtube.com"
+  },
+  {
+    "protocol": "https",
+    "domain-suffix": "www.youtube.com"
+  },
+  {
+    "protocol": "http",
+    "domain-suffix": "m.youtube.com"
+  },
+  {
+    "protocol": "https",
+    "domain-suffix": "m.youtube.com"
+  },
+  {
+    "protocol": "http",
+    "domain-suffix": "youtu.be"
+  },
+  {
+    "protocol": "https",
+    "domain-suffix": "youtu.be"
+  },
+  {
+    "protocol": "http",
+    "domain-suffix": "inv.nadeko.net"
+  },
+  {
+    "protocol": "https",
+    "domain-suffix": "inv.nadeko.net"
+  }
+]
