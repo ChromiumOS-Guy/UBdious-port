@@ -4,7 +4,7 @@
 INVIDIOUS_BASE_URL="https://inv.nadeko.net"
 
 # Define the base command for webapp-container
-WEBAPP_COMMAND="webapp-container --app-id=\"ubdious.chromiumos-guy\" --enable-back-forward --store-session-cookies --webapp-name=UBdious-port --enable-media-hub-audio --webappUrlPatterns=${INVIDIOUS_BASE_URL}/*"
+WEBAPP_COMMAND="webapp-container --app-id=\"ubdious.chromiumos-guy\" --enable-back-forward --store-session-cookies --webapp-name=UBdious-port --enable-media-hub-audio --webappUrlPatterns=${INVIDIOUS_BASE_URL}/*,https://*.youtube.com/*,https://youtube.com/*"
 
 # Get the URL passed as an argument (%u)
 INPUT_URL="$1"

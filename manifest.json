@@ -10,7 +10,7 @@
             "urls": "ubdious-port.url-dispatcher"
         }
     },
-    "version": "1.1.1",
+    "version": "1.2.1",
     "maintainer": "ChromiumOS-Guy <email@domain.org>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
